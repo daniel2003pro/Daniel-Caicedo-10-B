@@ -28,7 +28,7 @@ background-color: rgb(73, 232, 189);
 <body>
 	<h1>La tecnología en tiempos de pandemia</h1>
 <img id="img1" src="http://noticiascurazao.com/wp-content/uploads/2019/11/Tecnologia.png" alt="avance tecnologíco">
-<p>El actual escenario de pandemia mundial a causa del <a target="_blank"href="https://www.minsalud.gov.co/salud/publica/PET/Paginas/Covid-19_copia.aspx"> Covid-19 </a> está poniendo de manifiesto dos de los factores claves, no solo para su solución a corto plazo, sino también del futuro paradigma económico y formativo resultado de esta crisis global: el talento y la tecnología.</p>
+<p>El actual escenario de pandemia mundial a causa del Covid-19 está poniendo de manifiesto dos de los factores claves, no solo para su solución a corto plazo, sino también del futuro paradigma económico y formativo resultado de esta crisis global: el talento y la tecnología.</p>
 
 <p>La tecnología está resultando un factor decisivo en las mejores prácticas a nivel mundial para contener la propagación del virus. Es el caso de China. Con una de las redes más potentes a nivel mundial de 5G, este país está utilizando robots móviles de patrulla que ayudan a la policía para controlar el uso de mascarillas y la temperatura corporal en lugares públicos. Estos robots están equipados con cámaras de alta resolución y termómetros infrarrojos que son capaces de escanear simultáneamente la temperatura de 10 personas en un radio de cinco metros.</p>
 
