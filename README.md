@@ -26,6 +26,10 @@ background-color: rgb(73, 232, 189);
 </style>
 </head>
 <body>
+	<p>Daniel Caicedo Amaya</p>
+	<p>10-B</p>
+	<p>I.E La Milagrosa</p>
+   <p>Proyecto Final Tecnología</p>
 	<h1>La tecnología en tiempos de pandemia</h1>
 <img id="img1" src="http://noticiascurazao.com/wp-content/uploads/2019/11/Tecnologia.png" alt="avance tecnologíco">
 <p>El actual escenario de pandemia mundial a causa del Covid-19 está poniendo de manifiesto dos de los factores claves, no solo para su solución a corto plazo, sino también del futuro paradigma económico y formativo resultado de esta crisis global: el talento y la tecnología.</p>
